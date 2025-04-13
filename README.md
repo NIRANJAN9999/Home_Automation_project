@@ -31,10 +31,15 @@ This project controls a 230V AC light bulb using a relay, triggered by the ESP82
 
 ![Image 1](https://github.com/user-attachments/assets/47a4c3e4-b515-414c-8c5e-9b9b27d531c1)  
 ![Image 2](https://github.com/user-attachments/assets/83ddfa18-c088-4b57-9322-73c8c845b72f)  
-![Image 3](https://github.com/user-attachments/assets/e0417952-2e14-4685-bae4-34d446f662fc)  
+![t (3)](https://github.com/user-attachments/assets/021f5f3a-824f-43de-9f47-6e2aea5a0567)
+![t (2)](https://github.com/user-attachments/assets/536047c7-3eab-405b-9859-0da7eafbdefa)
+![t (1)](https://github.com/user-attachments/assets/f0bfe1e2-1174-4200-9be8-c7138c78a5f4)
 ![Image 4](https://github.com/user-attachments/assets/a1a8c04e-9f48-44d6-a498-0eeb7df846b8)  
-![Image 5](https://github.com/user-attachments/assets/453fce2d-2d4e-4b44-8753-8fd0e69ae4fc)  
+![Image 5](https://github.com/user-attachments/assets/453fce2d-2d4e-4b44-8753-8fd0e69ae4fc) 
+![t (4)](https://github.com/user-attachments/assets/f4f172e5-b590-4295-8a10-ad7bd709f5b0)
 ![Image 6](https://github.com/user-attachments/assets/fb3cfd9e-b944-42ef-9b6e-3bc1fbb17ef0)  
+![t (5)](https://github.com/user-attachments/assets/60370f25-b769-426d-8df3-fc11b344ae03)
+
 
 ---
 
